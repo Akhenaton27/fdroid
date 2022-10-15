@@ -1,0 +1,2 @@
+# fdroid
+Kafama göre 
